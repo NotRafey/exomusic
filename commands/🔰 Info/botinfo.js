@@ -52,7 +52,7 @@ module.exports = {
           cpu: percent.toFixed(2),
           ram: (process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)
         }))
-        .addField(client.la[ls].cmds.info.botinfo.field4.title, `\`\`\`yml\nName: Tomato#6966\nID: [442355791412854784]\`\`\``, true)
+        .addField(client.la[ls].cmds.info.botinfo.field4.title, `\`\`\`yml\nName: Joe66\nID: []\`\`\``, true)
         .addField(client.la[ls].cmds.info.botinfo.field5.title, handlemsg(client.la[ls].cmds.info.botinfo.field5.value, {
           invitelink: `https://discord.com/api/oauth2/authorize?client_id=${client.user.id}&permissions=8&scope=bot%20applications.commands`
         }))

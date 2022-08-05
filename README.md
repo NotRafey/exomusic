@@ -2,7 +2,7 @@
 
 # LAVA MUSIC 
 
-> Made with the [**Lavalink**](https://github.com/freyacodes/Lavalink) Wrapper [Erela.js](https://erelajs-docs.netlify.app/docs/gettingstarted.html) **Note this Discord Bot Repository is the Same as for the Public Bot [Lava Music](https://lava.milrato.dev) if u want to support me, then please [invite](https://lava.milrato.dev) him!**
+> Made with the [**Lavalink**](https://github.com/freyacodes/Lavalink) Wrapper [Erela.js](https://erelajs-docs.netlify.app/docs/gettingstarted.html) 
 
 ## Features:
 ✓ Auto resume
@@ -94,43 +94,3 @@ Well then skip step **` 5. `**
 > OR: Type: `?deployslash [SERVER_ID]` for GUILD SLASH COMMANDS (just for this Server)
 
 ![image](https://imgur.com/MA53Oo3.png "Slash Commands do work")
-<br/>
-
-***
-
-## [Discord Server 😎](https://discord.gg/dcdev) | [Website](https://milrato.dev)
-<a href="https://discord.gg/dcdev"><img src="https://discord.com/api/guilds/773668217163218944/widget.png?style=banner2"></a>
-
-***
-
-## SUPPORT ME AND MILRATO DEVELOPMENT
-
-> You can always Support me by inviting one of my **own Discord Bots**
-
-[![2021's best Music Bot | Lava Music](https://cdn.discordapp.com/attachments/748533465972080670/817088638780440579/test3.png)](https://lava.milrato.dev)
-[![Musicium Music Bot](https://cdn.discordapp.com/attachments/742446682381221938/770055673965707264/test1.png)](https://musicium.musicium.dev)
-[![Milrato Multi Bot](https://cdn.discordapp.com/attachments/742446682381221938/770056826724679680/test1.png)](https://milrato.milrato.dev)
-
-***
-
-# Credits
-
-> If consider using this Bot, make sure to credit me!
-
-***
-
-## Contributing on LANGUAGE SYSTEM
-
-> <kbd>1.</kbd> Copy a .json file in `languages`
-> 
-> <kbd>2.</kbd> Replace the Text, which aren't variables
-> 
-> <kbd>3.</kbd> Create a Pull Request
-
-***
-
-## TODO:
-
-> - `50% is Language able` ... finish the rest of it!
-> 
-> - Not all emojis are yet in the emojis.json file ... Fix those!

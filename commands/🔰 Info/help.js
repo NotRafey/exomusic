@@ -148,7 +148,7 @@ module.exports = {
         .setFooter(client.getFooter("Page Overview\n" + client.user.username, client.user.displayAvatarURL()))
         .setTitle(`Information about __${client.user.username}__`)
         .addField(":muscle: **__My Features__**",
-          `>>> :notes: An advanced <:Spotify:846090652231663647> **Music System** with **Audio Filtering**
+          `>>> :notes: An advanced **Music System** with **Audio Filtering**
 :video_game: A unique Music Request System and way much more!`)
         .addField(":question: **__How do you use me?__**",
           `>>> \`${prefix}setup-music #Channel\` To create the Music System, then connect to a **VC** and type your wished Song!
@@ -159,7 +159,7 @@ but you can also do \`${prefix}play <SONGNAME/SONGLINK>\` without setting it up!
 :file_folder: on **${client.guilds.cache.size} Guilds**
 ⌚️ **${duration(client.uptime).map(i=> `\`${i}\``).join("︲")} Uptime**
 📶 **\`${Math.floor(client.ws.ping)}ms\` Ping**
-<:MilratoDevelopment:900389724936609842>  Made by [**Milrato Development**](https://discord.gg/milrato)`)
+🦫  Made by [**Arctic**](https://discord.gg/)`)
 
 
       //Send message with buttons
